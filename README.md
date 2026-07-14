@@ -1,4 +1,4 @@
-# Appointment Booking Telegram Bot
+﻿# Appointment Booking Telegram Bot
 
 A production-ready, bilingual Telegram bot for managing appointments — built with `python-telegram-bot` (v21) and async SQLAlchemy 2.0.
 
@@ -65,7 +65,7 @@ If you don't have Python 3.12+ installed, run the appropriate command for your O
 
 ## ⚙️ Linux & Mac Setup
 
-```bash 
+```bash
 # download vs code IDE and open project folder then write this commands in the terminal
 cd appointment-bot-template
 python -m venv .venv
@@ -277,10 +277,7 @@ copy .env.example .env
 python -m bot.main
 ```
 
-
 البوت يُنشئ قاعدة البيانات ويسجّل مهمة التنظيف اليومية تلقائياً.
-```
-
 
 ---
 
