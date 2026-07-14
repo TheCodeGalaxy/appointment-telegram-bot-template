@@ -1,0 +1,5 @@
+title,duration_minutes,is_active
+Consultation,30,1
+Follow-up,15,1
+Emergency,60,1
+Check-up,45,0
