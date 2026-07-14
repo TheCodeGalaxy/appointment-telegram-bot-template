@@ -168,7 +168,7 @@ All tests run in-memory, no external dependencies.
 
 ## 📄 License
 
-Provided as a template. Adjust as needed.
+MIT
 
 ---
 
@@ -344,4 +344,4 @@ pytest
 
 ## 📄 الترخيص
 
-يُقدم كقالب. عدّل الترخيص حسب حاجتك.
+MIT
